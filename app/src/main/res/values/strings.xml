@@ -1,0 +1,7 @@
+<resources>
+    <!--Vietnamese-->
+    <string name="app_name">Đèn pin</string>
+    <string name="btn_switch">Chuyển</string>
+    <string name="txt_status">Trạng thái đèn pin</string>
+    <string name="action_settings">Cài đặt</string>
+</resources>
